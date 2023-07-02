@@ -1,0 +1,8 @@
+/build
+/out
+*.html
+*.o
+/.vscode
+/.idea
+*.log
+*.o.d
